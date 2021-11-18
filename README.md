@@ -18,6 +18,6 @@ Our project includes a self-explanatory Python notebook which can be run in Jupy
 
 ## Usage Guide
 
-To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py). 
+To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py). Once this file is in your working directory, you can ~import quantum_walk as qw~ and run ~visualize_walk(adjacency_matrix, period, num_timesteps, "Name of Gif", "Snapshots Directory")~ with the appropriate variables and your gif will be generated.
 
 If you want a detailed walk through, please refer to our python notebook file: [`quantum_walk.ipynb`](quantum_walk.ipynb) for more information.

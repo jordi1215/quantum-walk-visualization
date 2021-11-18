@@ -16,8 +16,6 @@ Our project includes a self-explanatory Python notebook which can be run in Jupy
 
 ## Usage Guide
 
+To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py). 
+
 If you want a detailed walk through, please refer to our python notebook file: [`quantum_walk.ipynb`](quantum_walk.ipynb) for more information.
-
-To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py).
-
-

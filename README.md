@@ -10,7 +10,7 @@ This repo is used to compete in the 2021 Global Qiskit Hackathon Challenge
 
 Our project aims to build a visualization tool for quantum walks on graphs. We first need to built the mathematical tools to evolve our quantum walk. We then used the [`retworkxx`](https://github.com/Qiskit/retworkx) from Qiskit to visualize our results. We produced it into a gif. format file that captures the snapshot per time step.
 
-Our project includes a self-explanatory Python notebook which can be run in Jupyter, Google Colab, etc. Our code cells are supplemented by text explanations and diagrams to help the readers learn and understand the concept of quantum walk. Please refer to [`fall_fest.ipynb`](fall_fest.ipynb) for more information.
+Our project includes a self-explanatory Python notebook which can be run in Jupyter, Google Colab, etc. Our code cells are supplemented by text explanations and diagrams to help the readers learn and understand the concept of quantum walk. Please refer to [`quantum_walk.ipynb`](fall_fest.ipynb) for more information.
 
 ## Example
 

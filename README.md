@@ -14,6 +14,8 @@ Our project includes a self-explanatory Python notebook which can be run in Jupy
 
 ## Example
 
+![](quantum_walk.gif)
+
 ## Usage Guide
 
 To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py). 

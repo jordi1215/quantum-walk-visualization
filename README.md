@@ -19,6 +19,7 @@ Our project includes a self-explanatory Python notebook which can be run in Jupy
 ## Usage Guide
 
 To import our visualization tool, download [`quantum_walk.py`](quantum_walk.py). Once this file is in your working directory, you can run:
+
 `import quantum_walk as qw`
 
 and run:

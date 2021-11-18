@@ -15,6 +15,7 @@ Our project includes a self-explanatory Python notebook which can be run in Jupy
 ## Example
 
 ![](quantum_walk_demo.gif)
+
 This is an example of a generated gif for a path on three vertices.
 
 ## Usage Guide
